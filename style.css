@@ -1,0 +1,62 @@
+.header {
+    background-color: #316dc3;
+}
+
+.heading {
+    color: white;
+    font-size: 1em;
+    text-align: center;
+}
+
+.marque-slider {
+    margin-top: 15px;
+    background-color: #316DC3;
+    color: white;
+}
+
+.col-md-2, .col-md-6, .col-md-4 {
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.icon {
+    padding: 5px;
+    color: white;
+    text-align: center;
+}
+
+.intro {
+    margin-top: 50px;
+    color: #316dc3;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.mycontainer {
+    background-color: #2655e8;
+}
+
+.myclass {
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.mydesign {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 20px;
+}
+
+.minibox {
+    color: #316dc3;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 25px;
+    margin-top: 5px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.myhover:hover {
+    color: black;
+}
